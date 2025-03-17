@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.questions {
+    background-color: #f8fffe; /* Light green background */
+    height: 50px; /* Fixed height */
+    margin-top: 20px; /* Space above each blockquote */
+    padding: 15px; /* Padding inside the blockquote */
+    max-width: 600px; /* Maximum width of the blockquote */
+    border-left: 8px solid green; /* Green left border */
+}
